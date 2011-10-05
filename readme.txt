@@ -15,6 +15,8 @@ If you’re sharing a link to a blog post on Facebook, having a thumbnail image 
 * I’m using the `<link rel="image_src" href="…" />` approach. If you’re adding more Open Graph meta tags to your `<head>`, you’d probably want to use `<meta property="og:image" content="…" />`, but in that case you probably also don’t need this plugin.
 * If you’re using any other plugins that add sharing info, Open Graph tags, or similar, this plugin will probably conflict with those.
 
+For questions, comments, or bugs, you can reach me at [@Overlapping](http://twitter.com/Overlapping) or OverlappingElvis [at] gmail [dot] com.
+
 == Frequently Asked Questions ==
 
 = I uploaded an image but it's still pulling my post thumbnail or first image from post! =
