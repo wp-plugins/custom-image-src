@@ -7,7 +7,7 @@ Stable tag: trunk
 
 Specify a custom sharing image for Facebook. You can upload an image, use the first image in the post, or use the post thumbnail.
 
-== Description ==s
+== Description ==
 
 If you’re sharing a link to a blog post on Facebook, having a thumbnail image makes for a much more effective share. If you have an image in the body of your post, Facebook will use that as the share image, but what if you don’t have any images in your post or want to specify an image you’re not using in the content? To solve this problem, I created a WordPress plugin that allows you to control which image shows when a link from your WordPress site is shared on Facebook.
 
