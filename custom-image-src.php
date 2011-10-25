@@ -2,7 +2,7 @@
 /*
 Plugin Name: Custom Image_Src
 Description: Allows the upload of a custom sharing image per post
-Version: 0.3
+Version: 0.31
 Author: Jeremy Sher
 Author URI: http://twitter.com/Overlapping
 License: GPLv3

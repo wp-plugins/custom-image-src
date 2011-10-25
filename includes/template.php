@@ -10,8 +10,8 @@
 	<?php $mb->the_field('post_thumbnail') ?>
 	<input type="checkbox" id="post_thumbnail" name="<?php $mb->the_name(); ?>" value="post_thumbnail"<?php echo $mb->is_value('post_thumbnail')?' checked="checked"':''; ?> /> Use Post Thumbnail
 </p>
+<?php endif; ?>
 <p>
 	<?php $mb->the_field('image_from_post'); ?>
 	<input type="checkbox" id="image_from_post" name="<?php $mb->the_name(); ?>" value="image_from_post"<?php echo $mb->is_value('image_from_post')?' checked="checked"':''; ?> /> Use First Image In Post
 </p>
-<?php endif; ?>
